@@ -1,0 +1,180 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+body {
+  font-family: helvetica;
+  font-size: 16px;
+  color: rgb(0, 0, 0);
+  line-height: 24px;
+  }
+
+  .ancho  {
+
+    max-width: 1200px;
+    margin: auto;
+  }
+
+.contenedor1  {
+  background-color: #d8d8d8;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  margin-right: 830px;
+}
+
+.logo1 {
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+  padding-bottom: 30px;
+}
+
+.logo2 {
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+  padding-bottom: 30px;
+}
+
+.logo3 {
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+  padding-bottom: 30px;
+}
+
+.menu {
+  text-align: center;
+  padding: 10px;
+}
+.menu a {
+  display: inline-block;
+  border: 1px #800000 solid;
+  text-decoration: none;
+  padding: 10px 30px;
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+  margin-right: 20px;
+  background-color: #800000;
+}
+
+.fototec {
+    background-size: cover;
+    width: 1200px;
+    height: 350px;
+    margin: auto;
+    background-repeat: no-repeat;
+  }
+
+  .ancho1 {
+    margin: auto;
+    height: 300px;
+    width: 1200px;
+  }
+
+  .contenedor2  {
+    background-image: url(imagenes/fototec.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -360px;
+    border: 1px white solid;
+  }
+
+  .centrar  {
+    text-align: center;
+    margin: auto;
+    padding: 18px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 400px;
+    margin-top: 90px;
+    font-weight: bold;
+  }
+
+  .ancho2 {
+
+    max-width: 1200px;
+    margin: auto;
+  }
+
+  .contenedor3  {
+    padding: 20px;
+    height: 350px;
+  }
+
+  .info {
+    width: 530px;
+    float: right;
+  }
+
+  .naranja {
+    color: rgb(186, 139, 28);
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .foto {
+    float: left;
+    width: 500px;
+    padding-left: 140px;
+  }
+
+  .rojo {
+    color: #800000;
+    font-weight: bold;
+    text-align: left;
+  }
+
+  p {
+    font-weight: bold;
+  }
+
+.hey  {
+  border: 2px #800000;
+}
+
+h3 {
+  padding-bottom: 30px;
+}
+
+.ubi  {
+  clear: both;
+  font-size: 30px;
+}
+
+
+.mapa {
+  width: 1190px;
+}
+
+.mapa1  {
+  text-align: center;
+}
+
+.ultimo {
+  height: 250px;
+  background-color: #800000;
+}
+
+.foto1  {
+  width: 190px;
+  padding-left: 230px;
+  padding-top: 30px;
+  float: left;
+}
+
+.informacion {
+  float: right;
+  padding-right: 170px;
+  padding-top: 60px;
+  text-align: right;
+  color: rgb(206, 206, 206);
+  line-height: 35px;
+  font-size: 14px;
+}
